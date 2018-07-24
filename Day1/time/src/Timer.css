@@ -1,0 +1,31 @@
+.hihi {
+   width: 100%;
+   margin-top: 50px;
+}
+.content{
+    /* height: 80px; */
+    width: 80%;
+    margin: 0 auto;
+}
+.description > span{
+    font-size: 20px;
+    font-weight: bold;
+}
+.card{
+    height: 150px;
+    display: block;
+    border: solid;
+    border: solid 1px #ddd;
+    margin-bottom: 50px;
+}
+.header, .meta{
+    padding-top: 5px;
+    text-align: left;
+    font-weight: bold;
+}
+.extra{
+    text-align: right
+}
+.extra > i {
+    margin-right: 6px;
+}
